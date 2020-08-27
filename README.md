@@ -1,3 +1,4 @@
+![Alt text](https://github.com/MatheusWilliam31/travelpets/blob/master/img.jpeg)
 <h1> Travel Pets🚕🐕</h1>
 <p>O objetivo deste documento é coletar, analisar e definir necessidades e recursos de alto nível para o desenvolvimento da aplicação TRAVEL PET.</p>
 <p>O TRAVEL PET e uma aplicação na área do transporte privado urbano exclusiva para animais de estimação que através de um aplicativo permite a busca por motoristas baseada na localização, oferecendo um serviço semelhante ao dos aplicativos de transporte tradicionais.</p>
